@@ -1,0 +1,7 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.tabCompletion": true,
+	"editor.formatOnSave": true
+}
